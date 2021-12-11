@@ -832,7 +832,7 @@ const starts = async (client = new WAConnection()) => {
 			sendKontak(from, creator, 'PitoDev')
 			break
 		case 'sc': case 'sourcecode':
-			client.sendMessage(from, { text: "https://pitodevid.github.io", matchedText: 'https://pitodevid.github.io', description: "", title: "Don't click here !!!", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+			client.sendMessage(from, { text: "https://github.com/PitoDevID/self-bot", matchedText: 'https://pitodevid.github.io', description: "", title: "Don't click here !!!", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 			break
 		case 'public':
 			if (!isOwner && !mek.key.fromMe) return
