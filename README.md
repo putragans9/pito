@@ -16,14 +16,14 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
-## `ADD BUILDPACK`
+## Add Buildpack
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/nodejs
 ```
 
-## `SESSION NAME`
+## Session Name
 
 ```bash
 ./session.json
@@ -49,8 +49,9 @@ $ scan qr code
 
 ## Connect With Me
 <p align="center">
- <a href="https://wa.me/+6285235637978"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
+  <a href="https://instagram.com/pitodev._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6285235637978"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+</P>
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
